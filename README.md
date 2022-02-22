@@ -1,2 +1,2 @@
 # GitHelper
-Документация по Git
+Документация по Git - https://github.com/Pestrich/GitHelper/wiki
